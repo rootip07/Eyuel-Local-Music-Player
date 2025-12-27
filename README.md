@@ -6,7 +6,7 @@ Simple local music player built with React (in-browser JSX) that plays audio fil
 
 Add a screenshot image named `screenshot.png` in this folder to show the app UI. The image will appear below once added.
 
-![App Screenshot](screenshot.png)
+![App Screenshot](screenshote.png)
 
 **Features**
 
@@ -62,3 +62,4 @@ Then open http://localhost:8000/music.html (or open the local file directly — 
 - Small personal project. Uses `jsmediatags` for ID3 parsing.
 
 Enjoy — drop audio files into the app and press play.
+
